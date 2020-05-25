@@ -1,0 +1,13 @@
+c:\users\marin\documents\visual studio 2013\Projects\CountriesControlServices\CountriesControlServices\bin\Debug\CountriesControlServices.dll
+c:\users\marin\documents\visual studio 2013\Projects\CountriesControlServices\CountriesControlServices\bin\Debug\CountriesControlServices.pdb
+c:\users\marin\documents\visual studio 2013\Projects\CountriesControlServices\CountriesControlServices\obj\Debug\CountriesControlServices.csprojResolveAssemblyReference.cache
+c:\users\marin\documents\visual studio 2013\Projects\CountriesControlServices\CountriesControlServices\obj\Debug\CountriesControlServices.dll
+c:\users\marin\documents\visual studio 2013\Projects\CountriesControlServices\CountriesControlServices\obj\Debug\CountriesControlServices.pdb
+C:\Users\Marin\documents\visual studio 2013\Projects\CountriesControlServices\CountriesControlServices\bin\Debug\Dapper.dll
+C:\Users\Marin\documents\visual studio 2013\Projects\CountriesControlServices\CountriesControlServices\bin\Debug\SimpleInjector.dll
+C:\Users\Marin\documents\visual studio 2013\Projects\CountriesControlServices\CountriesControlServices\bin\Debug\Dapper.xml
+C:\Users\Marin\documents\visual studio 2013\Projects\CountriesControlServices\CountriesControlServices\bin\Debug\SimpleInjector.xml
+C:\Users\Marin\documents\visual studio 2013\Projects\CountriesControlServices\CountriesControlServices\bin\Debug\CountriesControlData.dll
+C:\Users\Marin\documents\visual studio 2013\Projects\CountriesControlServices\CountriesControlServices\bin\Debug\System.Data.SQLite.dll
+C:\Users\Marin\documents\visual studio 2013\Projects\CountriesControlServices\CountriesControlServices\bin\Debug\CountriesControlData.pdb
+C:\Users\Marin\documents\visual studio 2013\Projects\CountriesControlServices\CountriesControlServices\bin\Debug\System.Data.SQLite.xml

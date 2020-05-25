@@ -1,0 +1,9 @@
+C:\Users\Marin\documents\visual studio 2013\Projects\CountriesControlServices\CountriesControlData\bin\Debug\CountriesControlData.dll.config
+C:\Users\Marin\documents\visual studio 2013\Projects\CountriesControlServices\CountriesControlData\bin\Debug\CountriesControlData.dll
+C:\Users\Marin\documents\visual studio 2013\Projects\CountriesControlServices\CountriesControlData\bin\Debug\CountriesControlData.pdb
+C:\Users\Marin\documents\visual studio 2013\Projects\CountriesControlServices\CountriesControlData\bin\Debug\Dapper.dll
+C:\Users\Marin\documents\visual studio 2013\Projects\CountriesControlServices\CountriesControlData\bin\Debug\System.Data.SQLite.dll
+C:\Users\Marin\documents\visual studio 2013\Projects\CountriesControlServices\CountriesControlData\bin\Debug\Dapper.xml
+C:\Users\Marin\documents\visual studio 2013\Projects\CountriesControlServices\CountriesControlData\bin\Debug\System.Data.SQLite.xml
+C:\Users\Marin\documents\visual studio 2013\Projects\CountriesControlServices\CountriesControlData\obj\Debug\CountriesControlData.dll
+C:\Users\Marin\documents\visual studio 2013\Projects\CountriesControlServices\CountriesControlData\obj\Debug\CountriesControlData.pdb
